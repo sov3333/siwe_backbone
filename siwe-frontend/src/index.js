@@ -1,6 +1,5 @@
-import "./style.css";
+// import "./style.css";
 import css from "./style.css";
-
 
 import { ethers } from 'ethers';
 import { SiweMessage } from 'siwe';
